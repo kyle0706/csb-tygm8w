@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://kyle0706.github.io/csb-tygm8w/static/css/main.a228fe65.chunk.css",
+    "main.js": "https://kyle0706.github.io/csb-tygm8w/static/js/main.4940eb0e.chunk.js",
+    "main.js.map": "https://kyle0706.github.io/csb-tygm8w/static/js/main.4940eb0e.chunk.js.map",
+    "runtime-main.js": "https://kyle0706.github.io/csb-tygm8w/static/js/runtime-main.5bb63ff5.js",
+    "runtime-main.js.map": "https://kyle0706.github.io/csb-tygm8w/static/js/runtime-main.5bb63ff5.js.map",
+    "static/js/2.858658b3.chunk.js": "https://kyle0706.github.io/csb-tygm8w/static/js/2.858658b3.chunk.js",
+    "static/js/2.858658b3.chunk.js.map": "https://kyle0706.github.io/csb-tygm8w/static/js/2.858658b3.chunk.js.map",
+    "index.html": "https://kyle0706.github.io/csb-tygm8w/index.html",
+    "static/css/main.a228fe65.chunk.css.map": "https://kyle0706.github.io/csb-tygm8w/static/css/main.a228fe65.chunk.css.map",
+    "static/js/2.858658b3.chunk.js.LICENSE.txt": "https://kyle0706.github.io/csb-tygm8w/static/js/2.858658b3.chunk.js.LICENSE.txt",
+    "static/media/check.9e20c302.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/check.9e20c302.svg",
+    "static/media/down-arrow.b49d80c2.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/down-arrow.b49d80c2.svg",
+    "static/media/link.29f36445.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/link.29f36445.svg",
+    "static/media/loading.68969fb3.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/loading.68969fb3.svg",
+    "static/media/styles.css": "https://kyle0706.github.io/csb-tygm8w/static/media/main.f7e952b2.svg",
+    "static/media/magic.77819bf1.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/magic.77819bf1.svg",
+    "static/media/nft-one.80b03537.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/nft-one.80b03537.svg",
+    "static/media/nft-three.04ad1730.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/nft-three.04ad1730.svg",
+    "static/media/nft-two.ede1b645.svg": "https://kyle0706.github.io/csb-tygm8w/static/media/nft-two.ede1b645.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb63ff5.js",
+    "static/js/2.858658b3.chunk.js",
+    "static/css/main.a228fe65.chunk.css",
+    "static/js/main.4940eb0e.chunk.js"
+  ]
+}
